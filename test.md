@@ -1,7 +1,7 @@
 ---
-layout: blocks
 title: bonjour
-date: 2020-03-12 23:00:00 +0000
+date: 2020-03-12 23:00:00 Z
+layout: blocks
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -10,5 +10,5 @@ page_sections:
   cta:
     url: ''
     button_text: ''
-
 ---
+
