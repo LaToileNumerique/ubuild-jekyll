@@ -16,7 +16,7 @@ sections:
   exclude: "*README.md"
   new_doc_ext: md
   templates:
-  - 1-column-text
+  - page-builder
 - type: jekyll-posts
   label: Posts
   create: all
